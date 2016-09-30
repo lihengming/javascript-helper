@@ -1,5 +1,5 @@
 # Javascript Dev Helper
-helper.js在Web前端开发过程中经常使用到的一些JS方法的合集，会持续更新~
+helper.js 是在Web前端开发过程中经常使用到的一些JS方法的合集，会持续更新~
 
 #### API 
 - formToJSON  表单转换JSON对象
